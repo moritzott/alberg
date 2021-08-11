@@ -7,4 +7,4 @@ Mit dem Alberg Programm soll eine atonale Kompositon von einem Computer geschrie
 ## Projektziel
 
 ### Namensgebung
-Der Name *Alberg* geht zurück auf den Komponisten _Alb_an B_erg_.
+Der Name *Alberg* geht zurück auf den Komponisten __Alb__an B__erg__.
