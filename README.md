@@ -1,5 +1,5 @@
 # Alberg
-Info Enflish Readers: The program and description is in German. English translation may be added in future.
+Info English Readers: The program and description is in German. English translation may be added in future.
 
 ## Beschreibung
 Mit dem Alberg Programm soll eine atonale Kompositon von einem Computer geschrieben werden.
