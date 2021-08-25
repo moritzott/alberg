@@ -10,7 +10,7 @@ Besonders interessant gebärdet sich die zeitgenössische Kunst im Bereich der M
 ## Vorgehensweise
 * eine Komposition (im seriellen, aleatorischen, atonalen, zeitgenössischen Stil) durch ein selbstgeschriebenes Computerprogramm komponieren lassen,
 * diese Komposition(en) werde ich dann unter Pseudonym bei mehreren Kompositionswettbewerben einreichen,
-* sollte eine solche Komposition einen Preis bekommen, ließe sich folgendes daraus schließen:
+* sollte eine solche Komposition einen Preis bekommen, ließe sich Folgendes daraus schließen:
   
   1. Eine einfache Rechenmaschine (Computer) kann mit wenig Anweisungen auch ein solches Werk erzeugen. Dabei fehlt genau das Intellektuelle.
   2. Eine Fachjury kann ein Werk, dass von einer dummen und einfachen Rechenmaschine komponiert worden ist, nicht von einem menschengeschaffenen – angeblich intelligenten – Werk unterscheiden.
