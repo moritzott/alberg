@@ -31,6 +31,6 @@ Der Name *Alberg* geht zurück auf den Komponisten **Alb**an B**erg**.
 Obwohl ich zunächst eine Anwendung in Python oder JavaScript plante, entschied ich mich für Ruby. Zum einen bietet es den Vorteil, dass ich meine Ruby-Kenntnisse nicht so leicht vergesse, zum anderen kann man ähnlich wie in Python sehr schnell einen ersten Prototypen bauen.
 
 ## Anforderungen
-- Es darf keine künstliche Intelligenz eingesetzt werden, sonst könnte man ja wieder mit der Intelligenz um die Ecke kommen... Stattdessen werden einfach Anweisungen (Algorithmen) im Programm eingesetzt.
+- Es darf keine künstliche Intelligenz eingesetzt werden, sonst könnte man ja wieder mit der Intelligenz um die Ecke kommen... Stattdessen werden eindeutige Anweisungen (Algorithmen) im Programm eingesetzt.
 - Da das Programm vorrangig von mir benutzt wird, reicht mir ein Kommandozeilenprogramm ohne grafische Nutzeroberfläche.
 
