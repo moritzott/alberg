@@ -8,9 +8,9 @@ Mit dem Alberg Programm soll eine atonale Kompositon von einem Computer geschrie
 Besonders interessant gebärdet sich die zeitgenössische Kunst im Bereich der Musik. Atonaler, serieller und aleatorischer Musik wird gerne nachgesagt, intellektuelle Musik zu sein. Auch Kulturförderung für solche Musik wird damit begründet, dass man Musik für Intellektuelle unterstütze. Die breite Masse kann mit dieser Musik, der ein tonales Zentrum fehlt, nichts anfangen. Wie auch? Schließlich ist die breite Masse nicht intelligent genug, um die Musik schätzen zu können und zu verstehen. Als Musikwissenschaftler und Musikliebhaber hat mich atonale Musik immer wieder beschäftigt und zwar als Gegenstand, bei dem auch mir oft ein Zugang zum Werk fehlte. Dabei habe ich die feste Überzeugung, dass es nicht Intelligenz ist, dass diese Musik ausmacht. Wie könnte ich eine solche These beweisen?
 
 ## Vorgehensweise
-- eine Komposition (im seriellen, aleatorischen, atonalen, zeitgenössischen Stil) durch ein selbstgeschriebenes Computerprogramm komponieren lassen,
-- diese Komposition(en) werde ich dann unter Pseudonym bei mehreren Kompositionswettbewerben einreichen,
-- sollte eine solche Komposition einen Preis bekommen, ließe sich folgendes daraus schließen:
+1. eine Komposition (im seriellen, aleatorischen, atonalen, zeitgenössischen Stil) durch ein selbstgeschriebenes Computerprogramm komponieren lassen,
+2. diese Komposition(en) werde ich dann unter Pseudonym bei mehreren Kompositionswettbewerben einreichen,
+3. sollte eine solche Komposition einen Preis bekommen, ließe sich folgendes daraus schließen:
   1. Eine einfache Rechenmaschine kann mit wenig Anweisungen auch ein solches "intelligentes" Werk erzeugen.
   2. Eine Fachjury kann ein Werk, dass von einer dummen und einfachen Rechenmaschine (Computer) komponiert worden ist, nicht von einem menschengeschaffenen – angeblich intelligenten – Werk unterscheiden.
   3. Bei atonaler Musik kann es sich nicht um intelligente Musik handeln, weil selbst ein simples Computerprogramm ein solches Werk erzeugen kann und Experten dies nicht erkennen können.
