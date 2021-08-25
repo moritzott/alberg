@@ -12,8 +12,8 @@ Besonders interessant gebärdet sich die zeitgenössische Kunst im Bereich der M
 * diese Komposition(en) werde ich dann unter Pseudonym bei mehreren Kompositionswettbewerben einreichen,
 * sollte eine solche Komposition einen Preis bekommen, ließe sich folgendes daraus schließen:
   
-  1. Eine einfache Rechenmaschine kann mit wenig Anweisungen auch ein solches "intelligentes" Werk erzeugen.
-  2. Eine Fachjury kann ein Werk, dass von einer dummen und einfachen Rechenmaschine (Computer) komponiert worden ist, nicht von einem menschengeschaffenen – angeblich intelligenten – Werk unterscheiden.
+  1. Eine einfache Rechenmaschine (Computer) kann mit wenig Anweisungen auch ein solches "intelligentes" Werk erzeugen.
+  2. Eine Fachjury kann ein Werk, dass von einer dummen und einfachen Rechenmaschine komponiert worden ist, nicht von einem menschengeschaffenen – angeblich intelligenten – Werk unterscheiden.
   3. Bei atonaler Musik kann es sich nicht um intelligente Musik handeln, weil selbst ein simples Computerprogramm ein solches Werk erzeugen kann und Experten dies nicht erkennen können.
   4. Dann wäre das der Beweis, dass diese Art von Musik eben nicht intellektuell wäre,  denn eine einfach, dumme Rechenmaschine kann solche Sachen auch erzeugen. Folglich fehlt genau das Intellektuelle.
   5. Nebenbei würde das Programm einen Turing-Test für Kunstwerke bestehen.
