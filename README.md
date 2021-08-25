@@ -22,6 +22,7 @@ Besonders interessant gebärdet sich die zeitgenössische Kunst im Bereich der M
 - Zunächst in kleinen Teilprogrammen diverse musikalische Probleme in Angriff nehmen.
 - Ein entsprechendes komplexeres Ruby-Programm erstellen mit einem Hauptmenü.
 - Das Programm sollte einen Export in eine druckfertige Datei o. Ä. enthalten.
+- Falls auch andere Nutzer das Programm ausprobieren wollen: Bedienungsanleitung erstellen.
 
 ### Namensgebung
 Der Name *Alberg* geht zurück auf den Komponisten **Alb**an B**erg**.
@@ -32,3 +33,4 @@ Obwohl ich zunächst eine Anwendung in Python oder JavaScript plante, entschied 
 ## Anforderungen
 - Es darf keine künstliche Intelligenz eingesetzt werden, sonst könnte man ja wieder mit der Intelligenz um die Ecke kommen... Stattdessen werden einfach Anweisungen (Algorithmen) im Programm eingesetzt.
 - Da das Programm vorrangig von mir benutzt wird, reicht mir ein Kommandozeilenprogramm ohne grafische Nutzeroberfläche.
+
