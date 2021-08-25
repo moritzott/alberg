@@ -11,6 +11,7 @@ Besonders interessant gebärdet sich die zeitgenössische Kunst im Bereich der M
 1. eine Komposition (im seriellen, aleatorischen, atonalen, zeitgenössischen Stil) durch ein selbstgeschriebenes Computerprogramm komponieren lassen,
 2. diese Komposition(en) werde ich dann unter Pseudonym bei mehreren Kompositionswettbewerben einreichen,
 3. sollte eine solche Komposition einen Preis bekommen, ließe sich folgendes daraus schließen:
+  
   1. Eine einfache Rechenmaschine kann mit wenig Anweisungen auch ein solches "intelligentes" Werk erzeugen.
   2. Eine Fachjury kann ein Werk, dass von einer dummen und einfachen Rechenmaschine (Computer) komponiert worden ist, nicht von einem menschengeschaffenen – angeblich intelligenten – Werk unterscheiden.
   3. Bei atonaler Musik kann es sich nicht um intelligente Musik handeln, weil selbst ein simples Computerprogramm ein solches Werk erzeugen kann und Experten dies nicht erkennen können.
