@@ -16,7 +16,7 @@ Besonders interessant gebärdet sich die zeitgenössische Kunst im Bereich der M
   2. Eine Fachjury kann ein Werk, dass von einer dummen und einfachen Rechenmaschine komponiert worden ist, nicht von einem menschengeschaffenen – angeblich intelligenten – Werk unterscheiden.
   3. Bei atonaler Musik kann es sich nicht um intelligente Musik handeln, weil selbst ein simples Computerprogramm ein solches Werk erzeugen kann und Experten dies nicht erkennen können. Zeitgenössischen Kunstwerke und deren Vertreter wären nicht intellektuell, weil sie von etwas dummen, wie einem Computerprogramm imitiert und überlistet werden können.
   5. Nebenbei würde das Programm einen Turing-Test für Kunstwerke bestehen.
-  6. Die These, wonach atonale und zeitgenössische Musik intelligent wäre, erwiese sich als falsch. Es erwiese sich auch als falsch, dass die Mehrheit der Bevölkerung zu dumm für diese Musik ist.
+  6. Die These, wonach atonale und zeitgenössische Musik intelligent wäre, erwiese sich als falsch. Es erwiese sich auch als falsch, dass die Mehrheit der Bevölkerung zu dumm für diese Musik sei.
 
 ## Projektziel
 - Zunächst in kleinen Teilprogrammen diverse musikalische Probleme in Angriff nehmen.
